@@ -3,7 +3,7 @@
 - 🔭 I’m currently studing ... Information technology at Da Lat University
 - 🌱 I’m currently learning ... Reactjs
 - 📫 How to reach me: ... https://duchieuctk41.github.io/duchieu.github.io/
-- 😄 Favorite: ... Read book, Singing, Travel and Cat <3
+- 😄 Favorite: ... Read book, Singing, Travel and Cat ❤️
 - ⚡ Fun fact: ...
 <div>
   <img alt="Github Stats" src="https://thanh-github-stats.vercel.app/api?username=duchieuctk41&hide=stars&count_private=true&show_icons=true&hide_border=true" />
