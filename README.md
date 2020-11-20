@@ -1,6 +1,5 @@
 ### :wave: Hi everyone!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 🔭 I’m currently studying ... Information technology at Da Lat University
 - 🌱 I’m currently learning ... Reactjs
 - 📫 How to reach me: ... https://duchieuctk41.github.io/duchieu.github.io/
 - 😄 Favorite: ... Read book, Singing, Travel and Cat ❤️
