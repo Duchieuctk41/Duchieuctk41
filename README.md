@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Reactjs
 - 😄 Favorite: ... Read book, Singing, Travel and Cat ❤️
 <div>
- <img src="https://github-readme-stats.vercel.app/api?username=quocthang0507&show_icons=true&theme=vue">
+ <img src="https://github-readme-stats.vercel.app/api?username=duchieuctk41&show_icons=true&theme=vue">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchieuctk41&layout=compact&theme=vue">
 <div>
   
