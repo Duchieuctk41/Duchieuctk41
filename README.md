@@ -8,4 +8,4 @@
   <!-- <img alt="Most language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchieuctk41&layout=compact&hide_border=true" /> -->
 <div>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocthang0507&layout=compact&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchieuctk41&layout=compact&theme=vue">
