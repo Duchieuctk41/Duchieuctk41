@@ -1,6 +1,6 @@
 ### :wave: Hi everyone!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-- 📫 My CV: ... [[Online](https://duchieuctk41.github.io/duchieu.github.io/)] [[Pdf](../../cv/CV.pdf/)] [![hinh](../../cv/loz.jpg/)]
+- 📫 My CV: ... [[Online](https://duchieuctk41.github.io/duchieu.github.io/)] [[Pdf](../main/cv/CV.pdf/)] [![hinh](../main/cv/loz.jpg/)]
 - :link: My Linked in: ... [Here](https://www.linkedin.com/in/hieupencil/)
 - :ok_woman: My Facebook: ... [Here](https://www.facebook.com/pencil.816)
 - 🌱 I’m currently learning ... [Reactjs](https://reactjs.org/)
