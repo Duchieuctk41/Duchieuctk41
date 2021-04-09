@@ -1,5 +1,5 @@
 
- ### :wave: Hi everyone!  I'm current learning in Da Lat university<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <img src="https://komarev.com/ghpvc/?username=duchieuctk41&label=Profile%20views&color=47cf73&style=flat" alt="duchieuctk41"/>
+ ### :wave: Hi everyone!  I am Duc Hieu. I'm currently studying at Da Lat university<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <img src="https://komarev.com/ghpvc/?username=duchieuctk41&label=Profile%20views&color=47cf73&style=flat" alt="duchieuctk41"/>
 
 - 📫 My CV: ... [[Online](https://duchieuctk41.github.io/duchieu.github.io/)] [[Pdf](../main/cv/CV.pdf/)]
 - :link: My Linked in: ... [[Here](https://www.linkedin.com/in/hieupencil/)]
