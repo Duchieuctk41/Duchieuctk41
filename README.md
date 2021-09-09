@@ -4,4 +4,4 @@
 - :link: My Linked: ... [[Here](https://www.linkedin.com/in/hieupencil/)]
 - :ok_woman: My Facebook: ... [[Here](https://www.facebook.com/pencil.816)]
 - 🌱 I'm learning ... [[Golang](https://golang.org/)][[Vuejs](https://vuejs.org/)]
-- 😄 Hobbies: ... Read, sing, Travel and cat ❤️
+- 😄 Hobbies: ... Read, sing, travel and cat ❤️
