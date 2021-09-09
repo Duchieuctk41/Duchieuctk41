@@ -5,7 +5,3 @@
 - :ok_woman: Facebook của tôi: ... [[Here](https://www.facebook.com/pencil.816)]
 - 🌱 Tôi đang học ... [[Golang](https://golang.org/)][[Vuejs](https://vuejs.org/)]
 - 😄 Sở thích: ... Đọc sách, Ca hát, Du lịch và Mèo ❤️
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=duchieuctk41&show_icons=true&theme=vue">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchieuctk41&layout=compact&theme=vue">
-<div>
