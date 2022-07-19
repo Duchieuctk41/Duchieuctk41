@@ -3,5 +3,5 @@
 - 📫 My CV: ... [[Online](https://hieuisme.netlify.app/)] [[Pdf-VietNamese](../main/cv/CV-Vi.pdf/)] [[Pdf-English](../main/cv/CV-En.pdf/)]
 - :link: My Linked: ... [[Here](https://www.linkedin.com/in/hieupencil/)]
 - :ok_woman: My Facebook: ... [[Here](https://www.facebook.com/pencil.816)]
-- 🌱 I'm learning ... [[Golang](https://golang.org/)]
+- 🌱 I'm learning ... [[Golang](https://golang.org/), [Reactjs](https://google.com), [Flutter](https://google.com)]
 - 😄 Hobbies: ... Read, sing, travel and cat ❤️
